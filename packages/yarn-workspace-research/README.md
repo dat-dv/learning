@@ -9,3 +9,7 @@
 ## 3. Basic Command 
 [Read](https://outline.hidat.site/s/ba289543-714d-459e-be70-56556a1cf77f)
 
+## 4. Workspace in yarn 
+[Read](https://classic.yarnpkg.com/blog/2017/08/02/introducing-workspaces)
+
+## 5. Lerna 
