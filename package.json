@@ -1,0 +1,22 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:react-context-perform": "yarn workspace react-context-perform run dev",
+    "dev:server": "yarn workspace server run dev",
+    "dev:react-ts-base": "yarn workspace react-ts-base run dev",
+    "create-base": "yarn workspace create-react-base run dev"
+  },
+  "maintainers": [
+    {
+      "name": "dat-dv",
+      "email": "datdoan.dev@gmail.com"
+    }
+  ]
+}

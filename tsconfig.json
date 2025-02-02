@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "removeComments": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true
+  }
+}
+/**
+ * Tệp cấu hình TypeScript gốc này được sử dụng để chia sẻ các cấu hình chung cho tất cả các gói trong monorepo.
+ * 
+ * Nên quản lý các cấu hình TypeScript ở cấp độ gói thay vì ở cấp độ workspace.
+ * 
+ * ---
+ * 
+ * This root TypeScript configuration file is used to share common configurations for all packages in the monorepo.
+ * 
+ * It is recommended to manage TypeScript configurations at the package level rather than at the workspace level.
+ */
